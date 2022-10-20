@@ -1,10 +1,13 @@
 
 ## W1
 
-Architecture. 
+Architecture
+
 ![img1](./img/W1_Architecture.png)
 
-terraform output. 
+
+terraform output
+
 ![img1](./img/W1_tfoutputs.png)
 
 ```
@@ -20,6 +23,7 @@ title = "T101"
 ```
 
 
-web site. 
+web site
+
 ![img1](./img/W1_website.png)
 
