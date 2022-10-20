@@ -2,10 +2,10 @@
 ## W1
 
 Architecture
-![img1](W1_20221016/img/W1_Architecture.png)
+![img1](./img/W1_Architecture.png)
 
 terraform output
-![img1](W1_20221016/img/W1_tfoutputs.png)
+![img1](./img/W1_tfoutputs.png)
 
 ```
 Apply complete! Resources: 10 added, 0 changed, 0 destroyed.
@@ -20,5 +20,5 @@ title = "T101"
 ```
 
 web site
-![img1](W1_20221016/img/W1_website.png)
+![img1](./img/W1_website.png)
 
