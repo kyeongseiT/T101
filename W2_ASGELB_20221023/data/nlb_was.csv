@@ -1,0 +1,4 @@
+state_index,name,type,from_port,to_port,protocol,source,description
+00,outbound,egress,0,0,-1,0.0.0.0/0,outbound
+01,inbound,ingress,80,80,tcp,0.0.0.0/0,From Client 80
+02,inbound,ingress,443,443,tcp,0.0.0.0/0,From Client 443
