@@ -3,7 +3,7 @@
 
 Architecture
 
-![img1](./img/T101_W2 _Architecture.png)
+![img1](./img/T101_W2 _Architecture)
 
 
 web site
