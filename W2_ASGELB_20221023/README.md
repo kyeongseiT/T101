@@ -8,7 +8,7 @@ Architecture
 
 web site
 
-![img1](./img/T101_W2_web.png)
+![img2](./img/T101_W2_web.png)
 
 
 과제 1
