@@ -7,7 +7,7 @@ resource "aws_vpc" "vpc" {
   instance_tenancy = var.instance_tenancy
   tags = {
       Name = format(
-        "%s-%s-vpc",
+        "%s-%s-vpc-testbackend",
         var.title,var.subtitle
       )
   }

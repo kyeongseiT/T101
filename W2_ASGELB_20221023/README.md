@@ -10,6 +10,9 @@ web site
 
 ![img2](./img/T101_W2_web.png)
 
+![img1](./img/s3.png)
+![img1](./img/dynamodb.png)
+
 
 과제 1
 my vpc mysubnet
