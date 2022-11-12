@@ -47,7 +47,7 @@ resource "aws_instance" "web" {
   ami           = data.aws_ami.amz2.id
   associate_public_ip_address = false
   disable_api_termination = var.disable_api_termination
-  # iam_instance_profile = ""
+  iam_instance_profile = aws_iam_instance_profile.ec2s3.name
   instance_type = var.web
   subnet_id     = aws_subnet.vpc_private_web[count.index].id
   key_name      = var.web_key_pair
