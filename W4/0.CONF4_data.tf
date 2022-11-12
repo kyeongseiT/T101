@@ -26,17 +26,9 @@ data "aws_ami" "ubuntu1804" {
 #ami-0ba5cd124d7a79612
 
 
-
-
 # data "template_file" "web-userdata" {
 #   template = file("./userdata/web.sh")
 # }
-
-# data "aws_acm_certificate" "kyeongsei-xyz" {
-#   domain   = "*.kyeongsei.xyz"
-# }
-
-
 
 ## Parsing my IP addr
 locals {
